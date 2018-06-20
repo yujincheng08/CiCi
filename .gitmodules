@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:yujincheng08/CiCi-Backend.git
+	branch = master
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:yujincheng08/CiCi-Frontend.git
+	branch = master
