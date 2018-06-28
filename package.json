@@ -1,0 +1,27 @@
+{
+  "name": "cici",
+  "version": "1.0.0",
+  "description": "B/S Homework",
+  "scripts": {
+    "postinstall": "cd frontend && yarn && cd ../backend && yarn",
+    "prestart": "cd frontend && yarn build",
+    "start": "cd backend && yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujincheng08/CiCi.git"
+  },
+  "keywords": [
+    "Learn",
+    "Engish"
+  ],
+  "author": "Jincheng YU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujincheng08/CiCi/issues"
+  },
+  "homepage": "https://github.com/yujincheng08/CiCi#readme",
+  "dependencies": {
+    "yarn": "^1.7.0"
+  }
+}
