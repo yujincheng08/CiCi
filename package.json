@@ -5,7 +5,8 @@
   "scripts": {
     "postinstall": "cd frontend && yarn && cd ../backend && yarn",
     "prestart": "cd frontend && yarn build",
-    "start": "cd backend && yarn start"
+    "start": "cd backend && yarn start",
+    "init": "cd backend && yarn run import-wordbooks"
   },
   "repository": {
     "type": "git",
