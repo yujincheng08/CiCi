@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/yujincheng08/CiCi#readme",
   "dependencies": {
-    "yarn": "^1.7.0"
+    "yarn": "^1.22.0"
   }
 }
